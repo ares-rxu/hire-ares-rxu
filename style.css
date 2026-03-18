@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'Iosevka Nerd';
-  src: url('/fonts/iosevka_nerd_light.ttf') format('truetype');
+  src: url('fonts/iosevka_nerd_light.ttf') format('truetype');
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Inter Tight';
-  src: url('/fonts/inter_tight.ttf') format('truetype');
+  src: url('fonts/inter_tight.ttf') format('truetype');
   font-style: normal;
 }
 
